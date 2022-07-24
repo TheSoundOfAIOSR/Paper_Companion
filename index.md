@@ -53,5 +53,5 @@ z0 = 0.586, z1 = 0.11
 
 | Z0      | Z1  | Resulting Sound                                  |
 | ------- | --- | ------------------------------------------------ |
-|  1.0    | 0.1 | <audio src="audio/zEx1_1_.wav" controls></audio> |
+|  1.0    | 0.1 | <audio src="audio/zEx2_1_.wav" controls></audio> |
 |  0.3    | 1.0 | <audio src="audio/zEx2_2_.wav" controls></audio> |
