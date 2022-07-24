@@ -40,8 +40,8 @@ z0 = 0.356, z1 = 0.486
 
 | Z0      | Z1  | Resulting Sound                                  |
 | ------- | --- | ------------------------------------------------ |
-|  0.5    | 0.0 | <audio src="audio/zEx1_1_.mp3" controls></audio> |
-|  1.0    | 1.0 | <audio src="audio/zEx1_2_.mp3" controls></audio> |
+|  0.5    | 0.0 | <audio src="audio/zEx1_1.mp3" controls></audio> |
+|  1.0    | 1.0 | <audio src="audio/zEx1_2.mp3" controls></audio> |
 
 Initial Generated Sample:
 
@@ -53,5 +53,5 @@ z0 = 0.586, z1 = 0.11
 
 | Z0      | Z1  | Resulting Sound                                  |
 | ------- | --- | ------------------------------------------------ |
-|  1.0    | 0.1 | <audio src="audio/zEx2_1_.mp3" controls></audio> |
-|  0.3    | 1.0 | <audio src="audio/zEx2_2_.mp3" controls></audio> |
+|  1.0    | 0.1 | <audio src="audio/zEx2_1.mp3" controls></audio> |
+|  0.3    | 1.0 | <audio src="audio/zEx2_2.mp3" controls></audio> |
