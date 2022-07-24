@@ -42,7 +42,7 @@ Initial Generated Sample:
 
 | Z0      | Z1  | Resulting Sound                                  |
 | ------- | --- | ------------------------------------------------ |
-|  0.2    | 0.5 | <audio src="audio/zEx3_1.mp3" controls></audio>  |
+|  0.2    | 0.5 | <audio src="audio/zEx3_1_1.mp3" controls></audio>  |
 |  1.0    | 1.0 | <audio src="audio/zEx3_2.mp3" controls></audio>  |
 
 
