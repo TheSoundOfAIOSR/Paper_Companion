@@ -36,12 +36,12 @@ Prompt: "Metallic Guitar Sound"
 
 z0 = 0.356, z1 = 0.486
 
-<audio src="audio/zEx1Init.wav" controls></audio>
+<audio src="audio/zEx1Init.mp3" controls></audio>
 
 | Z0      | Z1  | Resulting Sound                                  |
 | ------- | --- | ------------------------------------------------ |
-|  0.5    | 0.0 | <audio src="audio/zEx1_1_.wav" controls></audio> |
-|  1.0    | 1.0 | <audio src="audio/zEx1_2_.wav" controls></audio> |
+|  0.5    | 0.0 | <audio src="audio/zEx1_1_.mp3" controls></audio> |
+|  1.0    | 1.0 | <audio src="audio/zEx1_2_.mp3" controls></audio> |
 
 Initial Generated Sample:
 
@@ -49,9 +49,9 @@ Prompt: "Bright Guitar"
 
 z0 = 0.586, z1 = 0.11
 
-<audio src="audio/zEx2Init.wav" controls></audio>
+<audio src="audio/zEx2Init.mp3" controls></audio>
 
 | Z0      | Z1  | Resulting Sound                                  |
 | ------- | --- | ------------------------------------------------ |
-|  1.0    | 0.1 | <audio src="audio/zEx2_1_.wav" controls></audio> |
-|  0.3    | 1.0 | <audio src="audio/zEx2_2_.wav" controls></audio> |
+|  1.0    | 0.1 | <audio src="audio/zEx2_1_.mp3" controls></audio> |
+|  0.3    | 1.0 | <audio src="audio/zEx2_2_.mp3" controls></audio> |
